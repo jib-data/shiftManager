@@ -1,0 +1,40 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("./assets/images/signin_opt4\ \(1\).jpg");
+    background-size: cover;  
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+/* Form elements */
+
+form{
+    background-color: white;
+    padding: 60px;
+    opacity: 90%;
+}
+
+.header{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 45px;
+}
+
+input.form-control{
+    background-color:rgb(182, 124, 53);
+}
+
+span{
+    color: orange;
+}
+
+a{
+    text-decoration: none;
+}
